@@ -1,0 +1,1 @@
+A react app attempted at cloning the web version of the Spotify player
