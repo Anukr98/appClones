@@ -32,7 +32,7 @@ function Login() {
                 onClick = {signIn}
                 style = {{marginTop : '30px'}}
             >
-                Sign In
+                SIGN IN
             </Button>
         </div>
     )
